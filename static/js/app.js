@@ -72,10 +72,10 @@ function barChart(value) {
         type: "bar",
         orientation: "h",
         marker: {
-            color: 'rgb(128,0,128)',
+            color: 'rgb(179,154,54)',
             opacity: 0.5,
             line: {
-                color: 'rgb(128,0,128)',
+                color: 'rgb(179,154,54)',
                 width: 1,
             },
         }
