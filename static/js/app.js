@@ -149,6 +149,9 @@ function bubbleChart() {
             showgrid: true,
             title: "OTU ID"
         },
+        yaxis: {
+            title: "Sample Values"
+        },
         showlegend: false
     };
 
